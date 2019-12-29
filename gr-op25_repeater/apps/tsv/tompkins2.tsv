@@ -1,0 +1,253 @@
+DEC , HEX , Mode  , Alpha Tag, Description, Tag  , Group
+2, 002, D, BroomfieldPD 2, Police 2 Car/Car , Law Tac , Broomfield County 
+3, 003, D, BroomfieldPD 3, Police 3 Special Operations/Training , Law Tac , Broomfield County 
+4, 004, D, BroomfieldPD Rec, Police Records , Law Tac , Broomfield County 
+5, 005, D, BroomfieldPD Tac, Police Tactical , Law Tac , Broomfield County 
+6, 006, D, NorthMetro Disp, Fire Dispatch , Fire Dispatch , North Metro Fire Rescue District 
+7, 007, D, NorthMetro Ops A, Operations A , Fire-Tac , North Metro Fire Rescue District 
+8, 008, D, Adams FD Disp, Fire Dispatch , Fire Dispatch , Adams County Fire Rescue  
+9, 009, D, Adams FD Ops A, Fire Operations A , Fire-Tac , Adams County Fire Rescue  
+10, 00a, D, NorthMetro Admn, Fire Administration , Fire-Tac , North Metro Fire Rescue District 
+11, 00b, DE, Thornton PD 1, Police 1 Dispatch , Law Dispatch , Thornton 
+12, 00c, DE, Thornton PD 2, Police 2 Car/Car , Law Tac , Thornton 
+13, 00d, DE, Thornton PD 3, Police 3 , Law Tac , Thornton 
+14, 00e, D, Brighton PD 1, Police 1 Dispatch , Law Dispatch , Brighton 
+15, 00f, D, Brighton PD 2, Police 2 Car/Car , Law Tac , Brighton 
+16, 010, D, Brighton PD 3, Police 3 , Law Tac , Brighton 
+17, 011, D, Comrce City PD 1, Police 1 , Law Dispatch , Commerce City 
+18, 012, D, Comrce City PD 2, Police 2 Car/Car , Law Tac , Commerce City 
+19, 013, D, Comrce City PD 3, Police 3 , Law Tac , Commerce City 
+20, 014, D, Northglenn PD 1, Police 1 Dispatch , Law Dispatch , Northglenn 
+21, 015, D, Northglenn PD 2, Police 2 Car/Car , Law Tac , Northglenn 
+22, 016, D, Northglenn PD 3, Police 3 , Law Tac , Northglenn 
+23, 017, D, Adams SO Disp, Sheriff Dispatch , Law Dispatch , Adams County 
+24, 018, D, Adams SO Car/Car, Sheriff Car/Car , Law Tac , Adams County 
+25, 019, D, Adams SO Tac, Sheriff Tactical , Law Tac , Adams County 
+26, 01a, D, FederalHts PD 1, Police 1 Dispatch , Law Dispatch , Federal Heights 
+27, 01b, D, FederalHts PD 2, Police 2 Car/Car , Law Tac , Federal Heights 
+28, 01c, D, Adams SO Records, Sheriff Records , Law Tac , Adams County 
+29, 01d, D, Thornton FD Disp, Fire Dispatch , Fire Dispatch , Thornton 
+30, 01e, D, Thornton FD OpsA, Fireground A , Fire-Tac , Thornton 
+31, 01f, D, Brighton FD Disp, Fire Dispatch , Fire Dispatch , Brighton Fire Rescue District 
+32, 020, D, Brighton FD A, Fire Ops A , Fire-Tac , Brighton Fire Rescue District 
+33, 021, D, Adams FD Ops B, Fire Operations B , Fire-Tac , Adams County Fire Rescue  
+34, 022, D, Adams FD Ops C, Fire Operations C , Fire-Tac , Adams County Fire Rescue  
+35, 023, D, South Adams FDis, Fire Dispatch , Fire Dispatch , South Adams County Fire Protection District 
+36, 024, D, South Adams FD A, Fire Operations A , Fire-Tac , South Adams County Fire Protection District 
+37, 025, D, FederalHts FD Ds, Fire Dispatch , Fire Dispatch , Federal Heights 
+38, 026, D, FederalHts FD FG, Fireground , Fire-Tac , Federal Heights 
+43, 02b, D, AdamsCo Techs 1, Communications Technicians 1 , Public Works , Adams County 
+44, 02c, D, AdamsCo Techs 2, Communications Technicians 2 , Public Works , Adams County 
+45, 02d, D, AdamsCo Techs 3, Communications Technicians 3 , Public Works , Adams County 
+46, 02e, D, WeldCo Rdo 1, Communications Techs 1 , Public Works , Weld County 
+47, 02f, D, WeldCo Rdo 2, Communications Techs 2 , Public Works , Weld County 
+48, 030, D, WeldCo Rdo 3, Communications Techs 3 , Public Works , Weld County 
+53, 035, D, Adams Co MAC, County Mutual Aid Channel , Interop , Adams County 
+54, 036, D, NorthMetro Ops B, Operations B , Fire-Tac , North Metro Fire Rescue District 
+55, 037, D, AdamsCo DA, District Attorney's Office , Law Talk , Adams County 
+56, 038, D, Adams SO Bennet, Sheriff Bennett , Law Dispatch , Adams County 
+57, 039, D, AdamsCo FD MAC, Fire MAC Training (57) , Fire-Talk , Adams County 
+65, 041, D, BroomfieldPD 1, Police 1 Dispatch , Law Dispatch , Broomfield County 
+73, 049, D, South Adams FD B, Fire Operations B , Fire-Tac , South Adams County Fire Protection District 
+80, 050, D, South Adams FD C, Fire Operations C , Fire-Tac , South Adams County Fire Protection District 
+107, 06b, D, NorthMetro DTF, North Metro Drug Task Force , Law Tac , Adams County 
+419, 1a3, D, FRCC Console Net, Console Communications Net , Interop , Mutual Aid 
+420, 1a4, D, NMAT 1, North Mutual Aid 1 , Interop , Mutual Aid 
+421, 1a5, D, NMAT 2, North Mutual Aid 2 , Interop , Mutual Aid 
+422, 1a6, D, NMAT 3, North Mutual Aid 3 , Interop , Mutual Aid 
+423, 1a7, D, NMAT 4, North Mutual Aid 4 , Interop , Mutual Aid 
+424, 1a8, D, SMAT 1, South Mutual Aid 1 , Interop , Mutual Aid 
+425, 1a9, D, SMAT 2, South Mutual Aid 2 , Interop , Mutual Aid 
+426, 1aa, D, SMAT 3, South Mutual Aid 3 , Interop , Mutual Aid 
+427, 1ab, D, SMAT 4, South Mutual Aid 4 , Interop , Mutual Aid 
+429, 1ad, D, NMAT 5, North Mutual Aid 5 , Interop , Mutual Aid 
+430, 1ae, D, NMAT 6, North Mutual Aid 6 , Interop , Mutual Aid 
+431, 1af, D, NMAT 7, North Mutual Aid 7 , Interop , Mutual Aid 
+432, 1b0, D, NMAT 8, North Mutual Aid 8 , Interop , Mutual Aid 
+433, 1b1, D, NMAT 9, North Mutual Aid 9 , Interop , Mutual Aid 
+434, 1b2, D, WeldCo FrGnds, County Fairgrounds , Public Works , Weld County 
+434, 1b2, D, NMAT 10, North Mutual Aid 10 , Interop , Mutual Aid 
+435, 1b3, D, NMAT 11, North Mutual Aid 11 , Interop , Mutual Aid 
+436, 1b4, D, NMAT 12, North Mutual Aid 12 , Interop , Mutual Aid 
+437, 1b5, D, NMAT 13, North Mutual Aid 13 , Interop , Mutual Aid 
+438, 1b6, D, NMAT 14, North Mutual Aid 14 , Interop , Mutual Aid 
+439, 1b7, D, NMAT 15, North Mutual Aid 15 , Interop , Mutual Aid 
+440, 1b8, D, NMAT 16, North Mutual Aid 16 , Interop , Mutual Aid 
+1399, 577, D, BroomfieldPD Evt, Police Special Events/Traning , Law Talk , Broomfield County 
+1400, 578, D, Broomfield DPW, Public Works , Public Works , Broomfield County 
+1401, 579, D, Brommfield Jail, Jail Operations , Corrections , Broomfield County 
+1900, 76c, D, Greeley PD 1, Police 1 , Law Dispatch , Greeley 
+1901, 76d, D, Greeley PD 2, Police 2 , Law Tac , Greeley 
+1902, 76e, D, Greeley PD 3, Police 3 , Law Tac , Greeley 
+1903, 76f, DE, Greeley PD 4, Police 4 , Law Tac , Greeley 
+1904, 770, DE, Greeley PD 5, Police 5 , Law Tac , Greeley 
+1905, 771, DE, Greeley PD 6, Police 6 , Law Tac , Greeley 
+1906, 772, D, Greeley PD Adm, Police Admin , Law Tac , Greeley 
+1907, 773, D, WeldCo Fire Disp, Fire Dispatch , Fire Dispatch , Weld County 
+1908, 774, D, WeldFG2 Grly, Fireground 2 Greeley , Fire-Tac , Weld County 
+1909, 775, D, WeldFG3 Eaton, Fireground 3 Eaton , Fire-Tac , Weld County 
+1910, 776, D, WeldFG4 Wndsr, Fireground 4 Windsor , Fire-Tac , Weld County 
+1911, 777, D, WeldFG5 AltPc, Fireground 5 Ault/Pierce , Fire-Tac , Weld County 
+1912, 778, D, GXY Airport Ops, Greeley–Weld County Airport , Public Works , Greeley 
+1913, 779, D, WeldCo EMS Disp, EMS Dispatch , EMS Dispatch , Weld County 
+1914, 77a, D, WeldCo EMS Ops 1, EMS Ops 1 , EMS-Tac , Weld County 
+1915, 77b, D, WeldCo EMS Ops 2, EMS Ops 2 , EMS-Tac , Weld County 
+1916, 77c, D, WeldFG 23, Fireground 23 , Fire-Tac , Weld County 
+1919, 77f, D, WeldFG11 LaSl, Fireground 11 La Salle , Fire-Tac , Weld County 
+1920, 780, D, WeldFG12 MtVw, Fireground 12 Mountain View , Fire-Tac , Weld County 
+1921, 781, D, WeldFG6 Evans, Fireground 6 Evans , Fire-Tac , Weld County 
+1922, 782, D, WeldFG7 Nunn, Fireground 7 Nunn , Fire-Tac , Weld County 
+1923, 783, D, WeldFG8 FdFst, Fireground 8 Frederick/Firestone , Fire-Tac , Weld County 
+1924, 784, D, WeldFG9 Hudsn, Fireground 9 Hudson , Fire-Tac , Weld County 
+1925, 785, D, WeldFG10 FtLp, Fireground 10 Ft Lupton , Fire-Tac , Weld County 
+1926, 786, D, Weld Inter 1, Interagency 1 , Interop , Weld County 
+1927, 787, D, Weld Inter 2, Interagency 2 , Interop , Weld County 
+1928, 788, D, Weld Inter 3, Interagency 3 , Interop , Weld County 
+1930, 78a, D, Weld SO Disp, Sheriff Dispatch , Law Dispatch , Weld County 
+1931, 78b, D, Weld SO Tac 1, Sheriff Tactical 1 , Law Tac , Weld County 
+1932, 78c, D, Weld SO Tac 2, Sheriff Tactical 2 , Law Tac , Weld County 
+1933, 78d, D, WeldFG20 Pwne, Fireground 20 Pawnee , Fire-Tac , Weld County 
+1934, 78e, D, Weld SO 4, Sheriff 4 , Law Tac , Weld County 
+1937, 791, D, WeldFG21 NwRmr, Fireground 21 New Raymer , Fire-Tac , Weld County 
+1938, 792, D, Weld LE North, North Dispatch Local Police , Law Dispatch , Weld County 
+1939, 793, D, Weld LE N Record, North Records Local Police , Law Tac , Weld County 
+1940, 794, D, Weld LE Tac, Tactical Local Police , Law Tac , Weld County 
+1941, 795, D, WeldFG16 Mlkn, Fireground 16 Milliken , Fire-Tac , Weld County 
+1942, 796, D, WeldFG17 Jntn, Fireground 17 Johnstown , Fire-Tac , Weld County 
+1943, 797, D, WeldFG18 Gltn, Fireground 18 Galeton , Fire-Tac , Weld County 
+1944, 798, D, Weld SO Records, Sheriff Records , Law Tac , Weld County 
+1945, 799, D, Weld LE S Record, South Records Local Police , Law Tac , Weld County 
+1946, 79a, D, Weld LE South, South Dispatch Local Police , Law Dispatch , Weld County 
+1947, 79b, D, WeldCo ACU, ACU-1000 Interoperability , Interop , Weld County 
+1948, 79c, D, Weld Inter 4, Interagency 4 , Interop , Weld County 
+1949, 79d, D, Weld Inter 5, Interagency 5 , Interop , Weld County 
+1950, 79e, D, Weld Inter 6, Interagency 6 , Interop , Weld County 
+1951, 79f, D, WeldCo Emg Ops 1, Emergency Operations , Emergency Ops , Weld County 
+1952, 7a0, D, Firestone PD Tac, Police Tactical , Law Tac , Firestone 
+1953, 7a1, D, Univ NColo PD, University of Northern Colorado Police , Law Dispatch , Weld County 
+1954, 7a2, D, Evans Loc Gov, Local Government , Public Works , Evans 
+1955, 7a3, D, WeldFG19 Brgs, Fireground 19 Briggsdale , Fire-Tac , Weld County 
+1956, 7a4, D, WeldFG13 Ptvl, Fireground 13 Platteville , Fire-Tac , Weld County 
+1957, 7a5, D, WeldFG14 SEWd, Fireground 14 Southeast Weld , Fire-Tac , Weld County 
+1958, 7a6, D, WeldFG15 PtVl, Fireground 15 Platte Valley , Fire-Tac , Weld County 
+1959, 7a7, D, WldCo HSTrns, Human Services Transportation , Transportation , Weld County 
+1960, 7a8, D, FtLupton PD 3, Police 3 , Law Talk , Fort Lupton 
+1961, 7a9, D, Keenesbrg School, Schools , Schools , Keenesburg 
+1963, 7ab, D, WeldFG 22, Fireground 22 , Fire-Tac , Weld County 
+1999, 7cf, D, Weld Invalid, Invalid/Disabled , Public Works , Weld County 
+2000, 7d0, D, Weld Co LE ATG, Law Enforcement All Call , Law Dispatch , Weld County 
+2001, 7d1, D, Greeley PD 7, Police 7 Training , Law Talk , Greeley 
+2004, 7d4, D, Greeley PD 8, Police 8 Training/Tac , Law Tac , Greeley 
+2008, 7d8, D, Evans FD Alert, Fire Alerting , Fire Dispatch , Evans 
+2009, 7d9, D, F-F FPD Sta 1, Fire Station 1 Alert , Fire Dispatch , Frederick-Firestone Fire Protection District 
+2010, 7da, D, F-F FPD Sta 2, Fire Station 2 Alert , Fire Dispatch , Frederick-Firestone Fire Protection District 
+2011, 7db, D, F-F FPD Sta 3, Fire Station 3 Alert , Fire Dispatch , Frederick-Firestone Fire Protection District 
+2012, 7dc, D, F-F FPD Sta 4, Fire Station 4 Alert , Fire Dispatch , Frederick-Firestone Fire Protection District 
+2013, 7dd, D, FtLupton FD Sta1, Fire Station 1 Alert , Fire Dispatch , Fort Lupton 
+2014, 7de, D, FtLupton FD Sta2, Fire Station 2 Alert , Fire Dispatch , Fort Lupton 
+2016, 7e0, D, Greeley FD Sta 2, Fire Station 2 Alert , Fire Dispatch , Greeley 
+2017, 7e1, D, Greeley FD Sta 1, Fire Station 1 Alert , Fire Dispatch , Greeley 
+2018, 7e2, D, WeldCo EMS 102, EMS 102 Alert , EMS Dispatch , Weld County 
+2019, 7e3, D, Greeley FD Sta 3, Fire Station 3 Alert , Fire Dispatch , Greeley 
+2020, 7e4, D, Greeley FD Sta 4, Fire Station 4 Alert , Fire Dispatch , Greeley 
+2021, 7e5, D, Greeley FD Sta 5, Fire Station 5 Alert , Fire Dispatch , Greeley 
+2022, 7e6, D, WeldCo EMS 107, EMS 107 Alert , EMS Dispatch , Weld County 
+2025, 7e9, D, Hudson FD Alert1, Fire Station 1 Alert , Fire Dispatch , Hudson 
+2026, 7ea, D, Hudson FD Alert3, Fire Station 3 Alert , Fire Dispatch , Hudson 
+2027, 7eb, D, Hudson FD Alert2, Fire Station 2 Alert , Fire Dispatch , Hudson 
+2030, 7ee, D, PVFD St37 Alert, Platte Valley Fire Station 37 Alert , Fire Dispatch , Kersey 
+2031, 7ef, D, PVFD St37 Alert, Platte Valley Fire Station 37 Alert , Fire Dispatch , Kersey 
+2032, 7f0, D, LaSalle FD Alert, La Salle Fire Station 31 Alerting , Fire Dispatch , LaSalle Fire Protection District 
+2035, 7f3, D, PGFPD Sta 36, Fire Station 36 Alert , Fire Dispatch , Platteville Gilcrest Fire Protection District 
+2036, 7f4, D, Station 39 Alert, Fire Station 39 Alert , Fire Dispatch , Southeast Weld Fire Protection District 
+2037, 7f5, D, 3921 Alert, Prospect Valley 3921 Alert , Fire Dispatch , Southeast Weld Fire Protection District 
+2038, 7f6, D, 3960 Alert, Prospect Valley 3960 Alert , Fire Dispatch , Southeast Weld Fire Protection District 
+2039, 7f7, D, Windsor FD Alrt1, Fire Station 1 Alert , Fire Dispatch , Windsor Severance Fire Rescue 
+2040, 7f8, D, Windsor FD Alrt2, Fire Station 2 Alert , Fire Dispatch , Windsor Severance Fire Rescue 
+2041, 7f9, D, Windsor FD Alrt3, Fire Station 3 Alert , Fire Dispatch , Windsor Severance Fire Rescue 
+2042, 7fa, D, Briggsdale FD Al, Fire Station Alert , Fire Dispatch , Briggsdale 
+2043, 7fb, D, 3960 Alert, Prospect Valley 3960 Alert , Fire Dispatch , Southeast Weld Fire Protection District 
+2044, 7fc, D, F-F FPD Chief, Chief Alert , Fire Dispatch , Frederick-Firestone Fire Protection District 
+2045, 7fd, D, F-F FPD Cmnd3460, Command 3460 Alert , Fire Dispatch , Frederick-Firestone Fire Protection District 
+2046, 7fe, D, PVFD St37 Alert, Platte Valley Fire Station 37 Alert , Fire Dispatch , Kersey 
+2053, 805, D, Nunn FD Alert, Nunn Fire Protection District Alerting , Fire Dispatch , Weld County 
+4121, 1019, D, Thornton FD OpsC, Fireground C , Fire-Tac , Thornton 
+4122, 101a, D, AdamsCo TecSv, Technical Services , Public Works , Adams County 
+4123, 101b, D, AdamsCo Jail 1, Sheriff Jail Operations 1 , Corrections , Adams County 
+4124, 101c, D, AdamsCo Court, Sheriff Court Operations , Law Talk , Adams County 
+4125, 101d, D, AdamsCo Maint, Facilities Maintenance , Public Works , Adams County 
+4126, 101e, D, ComCty Spc Evt 1, Special Events 1 , Multi-Talk , Commerce City 
+4127, 101f, DE, Thornton PD 2A, Police 2A Car/Car , Law Tac , Thornton 
+4128, 1020, DE, Thornton PD Rec, Police 4 Records , Law Tac , Thornton 
+4129, 1021, D, Thornton FD OpsB, Fireground B , Fire-Tac , Thornton 
+4130, 1022, DE, Thornton PD SpEv, Police Special Events , Law Talk , Thornton 
+4131, 1023, D, Adams D14 Bus, District 14 Schools Buses  , Schools , Commerce City 
+4132, 1024, DE, Adams D14 Sec, District 14 Schools Security , Security , Commerce City 
+4133, 1025, D, Thornton Roads, Road and Bridge , Public Works , Thornton 
+4134, 1026, D, Thornton Waste, Trash & Recycling , Public Works , Thornton 
+4135, 1027, D, Thornton Parks, Parks and Recreation , Public Works , Thornton 
+4136, 1028, D, Thornton NeigSrv, Neighborhood Services , Public Works , Thornton 
+4137, 1029, D, AdamsD12 Sec, Security , Security , Adams 12 Five Star Schools 
+4138, 102a, D, AdamsD12 BusShop, Bus Shop , Schools , Adams 12 Five Star Schools 
+4139, 102b, D, AdamsD12 Mtce, Maintenance , Schools , Adams 12 Five Star Schools 
+4140, 102c, D, AdamsD12 Schools, Schools (4140) , Schools , Adams 12 Five Star Schools 
+4141, 102d, D, AdamsD12 Buses, Buses , Schools , Adams 12 Five Star Schools 
+4142, 102e, D, Mapleton Fleet, Fleet , Schools , Mapleton Public Schools 
+4143, 102f, D, Mapleton Bus, Bus , Schools , Mapleton Public Schools 
+4144, 1030, D, AdamsD12 Schools, Schools (4144) , Schools , Adams 12 Five Star Schools 
+4145, 1031, D, ComCty PD Sp Ops, Police Special Operations , Law Talk , Commerce City 
+4146, 1032, D, AdamsCo FD Emerg, Fire Mayday , Fire-Tac , Adams County 
+4147, 1033, DE, Adams D14 Admin, District 14 Schools Admin , Schools , Commerce City 
+4148, 1034, D, ComCty Spc Evt 2, Special Events 2 , Multi-Talk , Commerce City 
+4152, 1038, D, AdamsCo FD MAC 1, Fire MAC 1 , Interop , Adams County 
+4153, 1039, D, AdamsCo FD MAC 2, Fire MAC 2 , Interop , Adams County 
+4154, 103a, D, AdamsCo FD MAC 3, Fire MAC 3 , Interop , Adams County 
+4155, 103b, D, AdamsCo FD MAC 4, Fire MAC 4 , Interop , Adams County 
+4156, 103c, D, AdamsCo FD MAC, Fire MAC Training (4156) , Fire-Talk , Adams County 
+4157, 103d, D, AdamsCo FD MAC, Fire MAC Training (4157) , Fire-Talk , Adams County 
+4164, 1044, D, AdamsCo LE MAC 1, Law MAC 1 , Interop , Adams County 
+4165, 1045, D, AdamsCo LE MAC 2, Law MAC 2 , Interop , Adams County 
+4166, 1046, D, AdamsCo LE MAC 3, Law MAC 3 , Interop , Adams County 
+4167, 1047, D, AdamsCo LE MAC 4, Law MAC 4 , Interop , Adams County 
+4168, 1048, D, AdamsCo Jail 2, Sheriff Jail Operations 2 , Corrections , Adams County 
+4170, 104a, D, AdamsCo JailXprt, Sheriff Jail Transport , Corrections , Adams County 
+4171, 104b, D, Brighton FD B, Fire Ops B , Fire-Tac , Brighton Fire Rescue District 
+4172, 104c, D, Brighton FD C, Fire Ops C , Fire-Tac , Brighton Fire Rescue District 
+4173, 104d, DE, Thornton PD Data, Police Data , Law Tac , Thornton 
+4177, 1051, D, Thornton PD Trfc, Police Traffic , Law Tac , Thornton 
+4178, 1052, D, Westminster PD 1, Police Backup 1 , Law Dispatch , Westminster 
+4179, 1053, D, Westminster PD 2, Police Backup 2 , Law Dispatch , Westminster 
+4181, 1055, D, Adams SO ShawHts, Sheriff Shaw Heights , Law Dispatch , Adams County 
+9000, 2328, D, FtLupton FD Admn, Fire Admin , Fire-Talk , Fort Lupton 
+9001, 2329, D, Greeley FD 1, Fire 1 , Fire Dispatch , Greeley 
+9002, 232a, D, Evans FD 2422, Fire 2422 Alert , Fire Dispatch , Evans 
+9003, 232b, D, LaSalle FD Alert, LaSalle Fire Department Alerting , Fire Dispatch , Weld County 
+9011, 2333, D, Tri Area EMS, Tri Area Ambulance , EMS-Tac , Weld County 
+9012, 2334, D, WeldCo R&B 3, Road & Bridge 3 Asphalt , Public Works , Weld County 
+9013, 2335, D, WeldCo R&B 4, Road & Bridge 4 Mining , Public Works , Weld County 
+9014, 2336, D, WeldCo R&B 5, Road & Bridge 5 Truck-to-Truck , Public Works , Weld County 
+9015, 2337, D, WeldCo R&B 6, Road & Bridge 6 , Public Works , Weld County 
+9016, 2338, D, WeldCo R&B 7, Road & Bridge 7 Truck , Public Works , Weld County 
+9017, 2339, D, WeldCo R&B 8, Road & Bridge 8 Motor , Public Works , Weld County 
+9018, 233a, D, WeldCo PW 2, Public Works 2 Weed Control/Plows , Public Works , Weld County 
+9019, 233b, D, WeldCo PW 1, Public Works 1 , Public Works , Weld County 
+9024, 2340, D, FtStVrain Power1, Fort Saint Vrain Power Plant 1 , Utilities , Weld County 
+9025, 2341, D, FtStVrain Power2, Fort Saint Vrain Power Plant 2 , Utilities , Weld County 
+9026, 2342, D, Banner FtCollins, Fort Collins Medical Center , Hospital , Banner Health 
+9027, 2343, D, NC MedCenter, North Colorado Medical Center , Hospital , Weld County 
+9028, 2344, D, Banner Loveland, McKee Medical Center , Hospital , Banner Health 
+9029, 2345, D, Plattvle PD Admn, Police Admin , Law Tac , Platteville 
+9035, 234b, D, WeldCo Court Sec, Courthouse Security , Security , Weld County 
+9037, 234d, D, UNC Prk Enfrcmt, University of Northern Colorado Parking Enforcement , Public Works , Greeley 
+9056, 2360, D, Rampart SAR, Rampart Search and Rescue , Emergency Ops , Adams County 
+9113, 2399, D, MtnView Fire 1, Fire Rescue 1 , Fire-Tac , Mountain View Fire Rescue 
+9114, 239a, D, MtnView Fire 2, Fire Rescue 2 , Fire-Tac , Mountain View Fire Rescue 
+9540, 2544, D, MtnView Fire 3, Fire Rescue 3 , Fire-Tac , Mountain View Fire Rescue 
+9541, 2545, D, MtnView Fire 4, Fire Rescue 4 , Fire-Tac , Mountain View Fire Rescue 
+9557, 2555, D, MtnView Fire 5, Fire Rescue 5 , Fire-Tac , Mountain View Fire Rescue 
+9558, 2556, D, MtnView Fire 6, Fire Rescue 6 , Fire-Tac , Mountain View Fire Rescue 
+9559, 2557, D, MtnView Fire 7, Fire Rescue 7 , Fire-Tac , Mountain View Fire Rescue 
+9560, 2558, D, MtnView Fire 8, Fire Rescue 8 , Fire-Tac , Mountain View Fire Rescue 
+
+
+

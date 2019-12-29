@@ -1,0 +1,238 @@
+2	 BroomfieldPD 2
+3	 BroomfieldPD 3
+4	 BroomfieldPD Rec
+5	 BroomfieldPD Tac
+6	 NorthMetro Disp
+7	 NorthMetro Ops A
+8	 Adams FD Disp
+9	 Adams FD Ops A
+10	 NorthMetro Admn
+14	 Brighton PD 1
+15	 Brighton PD 2
+16	 Brighton PD 3
+17	 Comrce City PD 1
+18	 Comrce City PD 2
+19	 Comrce City PD 3
+20	 Northglenn PD 1
+21	 Northglenn PD 2
+22	 Northglenn PD 3
+23	 Adams SO Disp
+24	 Adams SO Car/Car
+25	 Adams SO Tac
+26	 FederalHts PD 1
+27	 FederalHts PD 2
+28	 Adams SO Records
+29	 Thornton FD Disp
+30	 Thornton FD OpsA
+31	 Brighton FD Disp
+32	 Brighton FD A
+33	 Adams FD Ops B
+34	 Adams FD Ops C
+35	 South Adams FDis
+36	 South Adams FD A
+37	 FederalHts FD Ds
+38	 FederalHts FD FG
+43	 AdamsCo Techs 1
+44	 AdamsCo Techs 2
+45	 AdamsCo Techs 3
+46	 WeldCo Rdo 1
+47	 WeldCo Rdo 2
+48	 WeldCo Rdo 3
+53	 Adams Co MAC
+54	 NorthMetro Ops B
+55	 AdamsCo DA
+56	 Adams SO Bennet
+57	 AdamsCo FD MAC
+65	 BroomfieldPD 1
+73	 South Adams FD B
+80	 South Adams FD C
+107	 NorthMetro DTF
+419	 FRCC Console Net
+420	 NMAT 1
+421	 NMAT 2
+422	 NMAT 3
+423	 NMAT 4
+424	 SMAT 1
+425	 SMAT 2
+426	 SMAT 3
+427	 SMAT 4
+429	 NMAT 5
+430	 NMAT 6
+431	 NMAT 7
+432	 NMAT 8
+433	 NMAT 9
+434	 WeldCo FrGnds
+434	 NMAT 10
+435	 NMAT 11
+436	 NMAT 12
+437	 NMAT 13
+438	 NMAT 14
+439	 NMAT 15
+440	 NMAT 16
+1399	 BroomfieldPD Evt
+1400	 Broomfield DPW
+1401	 Brommfield Jail
+1900	 Greeley PD 1
+1901	 Greeley PD 2
+1902	 Greeley PD 3
+1906	 Greeley PD Adm
+1907	 WeldCo Fire Disp
+1908	 WeldFG2 Grly
+1909	 WeldFG3 Eaton
+1910	 WeldFG4 Wndsr
+1911	 WeldFG5 AltPc
+1912	 GXY Airport Ops
+1913	 WeldCo EMS Disp
+1914	 WeldCo EMS Ops 1
+1915	 WeldCo EMS Ops 2
+1916	 WeldFG 23
+1919	 WeldFG11 LaSl
+1920	 WeldFG12 MtVw
+1921	 WeldFG6 Evans
+1922	 WeldFG7 Nunn
+1923	 WeldFG8 FdFst
+1924	 WeldFG9 Hudsn
+1925	 WeldFG10 FtLp
+1926	 Weld Inter 1
+1927	 Weld Inter 2
+1928	 Weld Inter 3
+1930	 Weld SO Disp
+1931	 Weld SO Tac 1
+1932	 Weld SO Tac 2
+1933	 WeldFG20 Pwne
+1934	 Weld SO 4
+1937	 WeldFG21 NwRmr
+1938	 Weld LE North
+1939	 Weld LE N Record
+1940	 Weld LE Tac
+1941	 WeldFG16 Mlkn
+1942	 WeldFG17 Jntn
+1943	 WeldFG18 Gltn
+1944	 Weld SO Records
+1945	 Weld LE S Record
+1946	 Weld LE South
+1947	 WeldCo ACU
+1948	 Weld Inter 4
+1949	 Weld Inter 5
+1950	 Weld Inter 6
+1951	 WeldCo Emg Ops 1
+1952	 Firestone PD Tac
+1953	 Univ NColo PD
+1954	 Evans Loc Gov
+1955	 WeldFG19 Brgs
+1956	 WeldFG13 Ptvl
+1957	 WeldFG14 SEWd
+1958	 WeldFG15 PtVl
+1959	 WldCo HSTrns
+1960	 FtLupton PD 3
+1961	 Keenesbrg School
+1963	 WeldFG 22
+1999	 Weld Invalid
+2000	 Weld Co LE ATG
+2001	 Greeley PD 7
+2004	 Greeley PD 8
+2008	 Evans FD Alert
+2009	 F-F FPD Sta 1
+2010	 F-F FPD Sta 2
+2011	 F-F FPD Sta 3
+2012	 F-F FPD Sta 4
+2013	 FtLupton FD Sta1
+2014	 FtLupton FD Sta2
+2016	 Greeley FD Sta 2
+2017	 Greeley FD Sta 1
+2018	 WeldCo EMS 102
+2019	 Greeley FD Sta 3
+2020	 Greeley FD Sta 4
+2021	 Greeley FD Sta 5
+2022	 WeldCo EMS 107
+2025	 Hudson FD Alert1
+2026	 Hudson FD Alert3
+2027	 Hudson FD Alert2
+2030	 PVFD St37 Alert
+2031	 PVFD St37 Alert
+2032	 LaSalle FD Alert
+2035	 PGFPD Sta 36
+2036	 Station 39 Alert
+2037	 3921 Alert
+2038	 3960 Alert
+2039	 Windsor FD Alrt1
+2040	 Windsor FD Alrt2
+2041	 Windsor FD Alrt3
+2042	 Briggsdale FD Al
+2043	 3960 Alert
+2044	 F-F FPD Chief
+2045	 F-F FPD Cmnd3460
+2046	 PVFD St37 Alert
+2053	 Nunn FD Alert
+4121	 Thornton FD OpsC
+4122	 AdamsCo TecSv
+4123	 AdamsCo Jail 1
+4124	 AdamsCo Court
+4125	 AdamsCo Maint
+4126	 ComCty Spc Evt 1
+4129	 Thornton FD OpsB
+4131	 Adams D14 Bus
+4132	 Adams D14 Sec
+4133	 Thornton Roads
+4134	 Thornton Waste
+4135	 Thornton Parks
+4136	 Thornton NeigSrv
+4137	 AdamsD12 Sec
+4138	 AdamsD12 BusShop
+4139	 AdamsD12 Mtce
+4140	 AdamsD12 Schools
+4141	 AdamsD12 Buses
+4142	 Mapleton Fleet
+4143	 Mapleton Bus
+4144	 AdamsD12 Schools
+4145	 ComCty PD Sp Ops
+4146	 AdamsCo FD Emerg
+4148	 ComCty Spc Evt 2
+4152	 AdamsCo FD MAC 1
+4153	 AdamsCo FD MAC 2
+4154	 AdamsCo FD MAC 3
+4155	 AdamsCo FD MAC 4
+4156	 AdamsCo FD MAC
+4157	 AdamsCo FD MAC
+4164	 AdamsCo LE MAC 1
+4165	 AdamsCo LE MAC 2
+4166	 AdamsCo LE MAC 3
+4167	 AdamsCo LE MAC 4
+4168	 AdamsCo Jail 2
+4170	 AdamsCo JailXprt
+4171	 Brighton FD B
+4172	 Brighton FD C
+4177	 Thornton PD Trfc
+4178	 Westminster PD 1
+4179	 Westminster PD 2
+4181	 Adams SO ShawHts
+9000	 FtLupton FD Admn
+9001	 Greeley FD 1
+9002	 Evans FD 2422
+9003	 LaSalle FD Alert
+9011	 Tri Area EMS
+9012	 WeldCo R&B 3
+9013	 WeldCo R&B 4
+9014	 WeldCo R&B 5
+9015	 WeldCo R&B 6
+9016	 WeldCo R&B 7
+9017	 WeldCo R&B 8
+9018	 WeldCo PW 2
+9019	 WeldCo PW 1
+9024	 FtStVrain Power1
+9025	 FtStVrain Power2
+9026	 Banner FtCollins
+9027	 NC MedCenter
+9028	 Banner Loveland
+9029	 Plattvle PD Admn
+9035	 WeldCo Court Sec
+9037	 UNC Prk Enfrcmt
+9056	 Rampart SAR
+9113	 MtnView Fire 1
+9114	 MtnView Fire 2
+9540	 MtnView Fire 3
+9541	 MtnView Fire 4
+9557	 MtnView Fire 5
+9558	 MtnView Fire 6
+9559	 MtnView Fire 7
+9560	 MtnView Fire 8

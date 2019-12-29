@@ -1,0 +1,84 @@
+{
+    "channels": [
+        {
+            "device": "",
+            "demod_type": "cqpsk", 
+            "destination": "udp://127.0.0.1:56120", 
+            "excess_bw": 0.2, 
+            "filter_type": "rc", 
+            "frequency": 460412500, 
+            "if_rate": 24000, 
+            "name": "p25", 
+            "plot": "symbol", 
+            "symbol_rate": 4800,
+            "raw_output": "",
+            "raw_input": "",
+            "raw_seek": 0
+        }, 
+        {
+            "device": "device_0",
+            "demod_type": "fsk4", 
+            "destination": "file:///tmp/out1.raw", 
+            "excess_bw": 0.2, 
+            "filter_type": "rrc", 
+            "frequency": 460500000, 
+            "if_rate": 24000, 
+            "name": "ysf", 
+            "plot": "datascope", 
+            "symbol_rate": 4800,
+            "raw_output": "",
+            "raw_input": ""
+        }, 
+        {
+            "device": "device_1",
+            "demod_type": "fsk4", 
+            "destination": "udp://127.0.0.1:56122", 
+            "excess_bw": 0.2, 
+            "filter_type": "rrc", 
+            "frequency": 460050000, 
+            "if_rate": 24000, 
+            "name": "dmr", 
+            "plot": "symbol", 
+            "symbol_rate": 4800,
+            "raw_output": "",
+            "raw_input": ""
+        }
+    ], 
+    "devices": [
+        {
+            "args": "rtl=0", 
+            "frequency": 460100000, 
+            "gains": "lna:39", 
+            "name": "device_0", 
+            "offset": 0, 
+            "ppm": 0, 
+            "rate": 1000000, 
+            "tunable": false
+        },
+        {
+            "args": "rtl=1", 
+            "frequency": 464100000, 
+            "gains": "lna:39", 
+            "name": "device_1", 
+            "offset": 0, 
+            "ppm": 0, 
+            "rate": 1000000, 
+            "tunable": true
+        }
+    ],
+    "trunking": {
+        "module": "",
+        "chans": [
+            {
+                "lcn": 1,
+                "frequency": 111222222,
+                "cc": 0
+            },
+            {
+                "lcn": 2,
+                "frequency": 111333333,
+                "cc": 0
+            }
+        ]
+    }
+}

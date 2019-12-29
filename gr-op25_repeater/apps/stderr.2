@@ -1,0 +1,33 @@
+gr-osmosdr 0.1.4 (0.1.4) gnuradio 3.7.13.4
+built-in source types: file osmosdr fcd rtl rtl_tcp uhd miri hackrf bladerf rfspace airspy airspyhf soapy redpitaya freesrp 
+Using device #0 Realtek RTL2838UHIDIR SN: 00000001
+Found Rafael Micro R820T tuner
+[R82XX] PLL not locked!
+[R82XX] PLL not locked!
+Using two-stage decimator for speed=2400000, decim=25/4 if1=96000 if2=24000
+Project 25 IMBE Encoder/Decoder Fixed-Point implementation
+Developed by Pavel Yazev E-mail: pyazev@gmail.com
+Version 1.0 (c) Copyright 2009
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions; see the file ``LICENSE'' for details.
+op25_audio::open_socket(): enabled udp host(127.0.0.1), wireshark(23456), audio(23456)
+p25_frame_assembler_impl: do_imbe[1], do_output[0], do_audio_output[1], do_phase2_tdma[1], do_nocrypt[0]
+Traceback (most recent call last):
+  File "./rx.py", line 960, in <module>
+    rx = rx_main()
+  File "./rx.py", line 871, in __init__
+    self.tb = p25_rx_block(self.options)
+  File "./rx.py", line 197, in __init__
+    self.open_usrp()
+  File "./rx.py", line 779, in open_usrp
+    self.__set_rx_from_osmosdr()
+  File "./rx.py", line 707, in __set_rx_from_osmosdr
+    self.__build_graph(self.src, capture_rate)
+  File "./rx.py", line 325, in __build_graph
+    self.trunk_rx = trunking.rx_ctl(frequency_set = self.change_freq, debug = self.options.verbosity, conf_file = self.options.trunk_conf_file, logfile_workers=logfile_workers, meta_update = self.meta_update)
+  File "/home/pi/op25/gr-op25_repeater/apps/trunking.py", line 667, in __init__
+    self.build_config_tsv(conf_file)
+  File "/home/pi/op25/gr-op25_repeater/apps/trunking.py", line 724, in build_config_tsv
+    with open(tsv_filename, 'rb') as csvfile:
+IOError: [Errno 2] No such file or directory: 'ColoradoDTRSTrunk.tsv'

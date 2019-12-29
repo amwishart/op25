@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a350173a-5334-4dc5-8610-32072a0ab914" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Documents/OP25" />
+  </component>
+  <component name="ProjectId" id="1VcLuDSD5gUZ5m1c6Si8eNU2BIo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$USER_HOME$/Desktop/op25_new/op25/gr-op25_repeater/apps/rx.py" />
+  </component>
+  <component name="RunManager">
+    <configuration name="freqshow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="apps" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/freqshow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.freqshow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a350173a-5334-4dc5-8610-32072a0ab914" name="Default Changelist" comment="" />
+      <created>1577547656477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577547656477</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog" timestamp="1577592790128">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="DiffContextDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1577592790128" />
+    <state width="1771" height="391" key="GridCell.Tab.0.bottom" timestamp="1577580274794">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274794" />
+    <state width="1771" height="280" key="GridCell.Tab.0.bottom/0.23.1792.1033@0.23.1792.1033" timestamp="1577551595039" />
+    <state width="1771" height="391" key="GridCell.Tab.0.center" timestamp="1577580274793">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274793" />
+    <state width="1771" height="280" key="GridCell.Tab.0.center/0.23.1792.1033@0.23.1792.1033" timestamp="1577551595038" />
+    <state width="1771" height="391" key="GridCell.Tab.0.left" timestamp="1577580274793">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274793" />
+    <state width="1771" height="280" key="GridCell.Tab.0.left/0.23.1792.1033@0.23.1792.1033" timestamp="1577551595037" />
+    <state width="1771" height="391" key="GridCell.Tab.0.right" timestamp="1577580274794">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274794" />
+    <state width="1771" height="280" key="GridCell.Tab.0.right/0.23.1792.1033@0.23.1792.1033" timestamp="1577551595038" />
+    <state width="1771" height="391" key="GridCell.Tab.1.bottom" timestamp="1577580274795">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274795" />
+    <state width="1771" height="391" key="GridCell.Tab.1.center" timestamp="1577580274795">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274795" />
+    <state width="1771" height="391" key="GridCell.Tab.1.left" timestamp="1577580274794">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274794" />
+    <state width="1771" height="391" key="GridCell.Tab.1.right" timestamp="1577580274795">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1771" height="391" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1577580274795" />
+    <state x="397" y="166" key="SettingsEditor" timestamp="1577579466170">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="166" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1577579466170" />
+    <state x="397" y="176" key="SettingsEditor/0.23.1792.1033@0.23.1792.1033" timestamp="1577547762326" />
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1577592790129">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1577592790129" />
+    <state x="163" y="84" width="1519" height="861" key="find.popup" timestamp="1577600634261">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="163" y="84" width="1519" height="861" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1577600634261" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/controller.py</url>
+          <line>145</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ui.py</url>
+          <line>223</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/views.py</url>
+          <line>331</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/trunking.py</url>
+          <line>730</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

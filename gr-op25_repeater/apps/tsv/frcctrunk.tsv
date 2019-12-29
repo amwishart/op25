@@ -1,0 +1,2 @@
+Sysname	Control Channel List	Offset	NAC	Modulation	TGID Tags File	Whitelist	Blacklist	Center Frequency
+FRCC P25	772.99375	0	0x5a2	cqpsk	frcc.tsv	""	"frcc_blacklist.tsv"
