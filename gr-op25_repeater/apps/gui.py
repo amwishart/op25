@@ -5,7 +5,10 @@ import Queue
 import sys
 import threading
 import traceback
-from GUIThreading import GUIThreading
+from optparse import OptionParser
+
+import GUIThreading
+import Options
 
 
 class du_queue_watcher(threading.Thread):
@@ -272,7 +275,7 @@ class GUIClient:
     def exitProgram(self):
         try:
             print('Exiting Program')
-            stopProgram()
+            self.stopProgram()
             print('Exited Program')
         except:
             pass

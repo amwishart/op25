@@ -1353,10 +1353,8 @@ class rx_ctl(object):
     def get_nac(self):
         for nac in self.configs:
             return nac
-
-    def get_trunked_systems(self):
-        for trunked_systems in self.configs:
-            return trunked_systems
+    def get_configs(self):
+        return self.configs
 
 
 def main():

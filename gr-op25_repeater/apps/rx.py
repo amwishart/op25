@@ -389,11 +389,16 @@ class p25_rx_block (gr.top_block):
             self.eye_sink.set_sps(self.sps)
 
     def setCallback(self, callback=None):
-        #print 'setting callback in p25_rx_block'
-        self.callback = callback
+        #print ('setting callback in p25_rx_block %s' % callback)
+        if callback is None:
+            #print('don\'t set callback to None')
+            # #raise NameError('don\'t set callback to None')
+            pass
+        else:
+            self.callback = callback
         
     def change_freq(self, params):
-        print ('change_freq: %s * %s' % (params['tag'], (float(params['freq']) / 1000000)))
+        #print ('change_freq: %s * %s' % (params['tag'], (float(params['freq']) / 1000000)))
         if(params['tgid'] != None):
             if self.callback != None:
                 self.callback(params)
@@ -853,9 +858,10 @@ class p25_rx_block (gr.top_block):
     def get_nac(self):
         #print ('p25_rx_block get_nac')
         return self.trunk_rx.get_nac()
-    def get_trunked_systems(self):
-        #print ('p25_rx_block get_nac')
-        return self.trunk_rx.get_trunked_systems()
+
+    def get_configs(self):
+        print ('p25_rx_block get_configs')
+        return self.trunk_rx.get_configs()
 
 ############################################################################
 
